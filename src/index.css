@@ -1,0 +1,29 @@
+body{
+  background-color: #212529;
+}
+
+.navBar{
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.modalButton{
+  border: 1px solid white;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.externalDivButton{
+  display: flex;
+  justify-content: center;
+  margin: 20%;
+}
+
+.modalStyle{
+  color: black;
+  width: 200px;
+  height: 100px;
+  background-color: white;
+  text-align: center;
+}
